@@ -1,0 +1,34 @@
+.none{
+    
+}
+.dotted{
+    border: dotted;
+}
+.dashed{
+    border:dashed;
+}
+.solid{
+    border:solid;
+}
+.double{
+    border:double;
+}
+.groove{
+    border:groove;
+}
+.ridge{
+    border:ridge;
+}
+.inset{
+    border:inset;
+}
+.outset{
+    border: outset;
+}
+.displ{
+    display: inline-block;
+}
+.espaciado{
+    margin: 50px;
+    padding: 60px;
+}
